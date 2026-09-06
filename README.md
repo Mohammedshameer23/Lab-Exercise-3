@@ -3,7 +3,13 @@
 To Heuristic Evaluation of an Existing Website or App To pick a website and its feature which I will be recreating as a ui ux designer.
 
 ## Algorithm:
-1.Open the ChatGPT web application in a web browser. 2.Capture a screenshot of the ChatGPT home page. 3.Open the use.ai web application. 4.Capture a screenshot of the use.ai home page. 5.Compile both screenshots into a single PDF document. 6.Compare the interfaces based on layout, navigation, available options, AI model selection, and user experience. 7.Record the observations and summarize the findings.
+1.Open the ChatGPT web application in a web browser.
+2.Capture a screenshot of the ChatGPT home page. 
+3.Open the use.ai web application.
+4.Capture a screenshot of the use.ai home page.
+5.Compile both screenshots into a single PDF document.
+6.Compare the interfaces based on layout, navigation, available options, AI model selection, and user experience. 
+7.Record the observations and summarize the findings.
 
 ## output
 <img width="1536" height="1024" alt="Heuristic evaluation of zomato (1)" src="https://github.com/user-attachments/assets/89085ca3-8128-4263-ab05-2b2fd99eaa7c" />
